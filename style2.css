@@ -1,0 +1,28 @@
+.row{
+    display: flex;
+
+}
+
+body{
+    width: 800px;
+}
+.pink{
+    background-color: pink;
+    align-items: center;
+}
+.blue{
+    background-color: powderblue;
+}
+
+/*container {
+    display: flex;
+    height: 300px;
+    align-items: normal;
+    justify-content: flex-start;
+    margin:auto;
+}*/
+
+.octocat{
+    height: 200px;
+
+}
